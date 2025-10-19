@@ -1,4 +1,4 @@
-# E-Commerce-Analytics-Dashboar
+# E-Commerce-ETL-Analytics
 
 ## Project Overview
 This project implements an **ETL pipeline** for an e-commerce business using **Python** and **Pandas**. It extracts, transforms, and loads data from multiple sources, performs analytics, and generates actionable insights. The focus is on **data engineering skills**, including data cleaning, aggregation, and dashboard generation.
