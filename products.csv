@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,SubCategory,SupplierID,UnitPrice,StockQuantity
+1,Drug,Home & Kitchen,Million,5,1069.6,31
+2,From,Books,At,18,1847.97,70
+3,While,Toys,Identify,11,2916.74,93
+4,By,Home & Kitchen,Seem,20,3773.22,173
+5,Produce,Toys,Laugh,16,1684.71,94
+6,Support,Electronics,Seek,20,4113.3,96
+7,Everyone,Books,Inside,9,4685.11,113
+8,Pressure,Home & Kitchen,Modern,17,1854.31,37
+9,They,Clothing,Thousand,16,4795.12,40
+10,Off,Clothing,Contain,20,3685.29,157
+11,Feel,Home & Kitchen,Lawyer,16,330.17,190
+12,Follow,Clothing,Travel,17,3647.95,92
+13,Agent,Toys,Accept,20,56.97,109
+14,Trial,Toys,Commercial,8,93.47,65
+15,Do,Electronics,Beautiful,16,1876.08,55
+16,Impact,Home & Kitchen,Serious,1,1396.07,119
+17,New,Clothing,Music,4,1222.4,178
+18,With,Books,Church,14,2876.03,55
+19,Everyone,Home & Kitchen,Role,6,3783.23,125
+20,Free,Books,Police,14,755.86,169
+21,Attack,Electronics,Spring,3,249.23,190
+22,News,Clothing,Good,5,4235.13,186
+23,Light,Toys,Because,1,3246.27,137
+24,Professional,Home & Kitchen,Wonder,3,4035.47,20
+25,Recognize,Electronics,Stand,12,459.77,176
+26,Figure,Clothing,Name,18,479.74,114
+27,Room,Clothing,Form,19,3316.87,143
+28,Create,Books,Reflect,6,2827.49,149
+29,Once,Books,Newspaper,16,4013.38,115
+30,Positive,Books,Program,13,1860.26,108
+31,Offer,Home & Kitchen,Space,12,4442.61,108
+32,During,Clothing,Once,6,4390.63,157
+33,Protect,Clothing,Pressure,15,2256.32,12
+34,Remain,Clothing,Between,6,3329.88,70
+35,Campaign,Home & Kitchen,Outside,16,3475.17,176
+36,We,Home & Kitchen,Talk,16,1532.21,106
+37,Later,Electronics,Traditional,12,4031.62,99
+38,Guy,Home & Kitchen,Scientist,13,4345.36,161
+39,Difference,Home & Kitchen,Win,17,2490.15,62
+40,Imagine,Electronics,Share,6,1176.26,45
+41,Politics,Electronics,Fly,7,4436.01,70
+42,Read,Books,Couple,8,3097.3,152
+43,Catch,Toys,Off,1,3967.72,166
+44,Woman,Books,Early,2,204.19,102
+45,Same,Books,With,15,2864.16,145
+46,Doctor,Home & Kitchen,Plant,11,880.98,3
+47,Yourself,Electronics,Page,8,3427.62,52
+48,While,Books,Situation,19,1963.91,135
+49,Whole,Clothing,Lot,6,274.47,8
+50,Employee,Toys,Fish,20,3101.04,144
+51,Personal,Home & Kitchen,Color,19,3529.35,106
+52,Much,Toys,As,2,2600.62,161
+53,Cup,Toys,Letter,13,2401.59,2
+54,Yard,Home & Kitchen,Dog,14,4454.68,21
+55,Debate,Books,Dinner,10,2605.79,36
+56,Lot,Clothing,Television,3,4125.17,199
+57,Institution,Books,Idea,14,4198.66,131
+58,Better,Home & Kitchen,Too,9,4344.05,119
+59,Base,Books,Baby,15,1438.44,127
+60,Senior,Clothing,Visit,15,416.57,23
+61,Air,Electronics,Size,8,1465.16,37
+62,Page,Home & Kitchen,With,19,2974.71,67
+63,North,Electronics,Him,12,2882.17,193
+64,Want,Clothing,Key,20,1967.79,189
+65,Either,Clothing,Lose,2,4284.01,188
+66,Because,Home & Kitchen,If,4,3483.69,148
+67,Training,Home & Kitchen,Method,8,2605.71,197
+68,Behavior,Electronics,Nation,7,1144.82,140
+69,Pm,Home & Kitchen,Single,6,4822.8,66
+70,Manager,Toys,Bed,10,4414.92,137
+71,Remember,Home & Kitchen,Election,16,850.55,132
+72,Result,Electronics,Air,13,2158.92,17
+73,Suffer,Electronics,Above,1,590.86,81
+74,Fact,Toys,Even,12,3169.24,89
+75,Fill,Home & Kitchen,General,7,3953.75,60
+76,Effort,Clothing,Behavior,1,2023.2,172
+77,Important,Books,Travel,5,4488.03,7
+78,Trip,Electronics,Blood,2,1069.88,187
+79,School,Home & Kitchen,Recognize,13,3296.78,11
+80,Fast,Clothing,Question,4,3470.89,64
+81,Teach,Toys,Believe,16,3759.03,40
+82,Baby,Clothing,Very,13,285.13,62
+83,Street,Home & Kitchen,Century,19,1052.89,191
+84,Down,Books,Bag,20,895.09,102
+85,Gun,Toys,Decide,15,812.1,10
+86,Car,Clothing,Evening,17,2030.6,78
+87,Parent,Home & Kitchen,Contain,20,4011.55,196
+88,Know,Books,Drop,14,4508.99,20
+89,Book,Toys,Our,18,3072.76,131
+90,Military,Books,Can,14,1009.01,12
+91,Onto,Clothing,Billion,5,3610.92,1
+92,Authority,Home & Kitchen,While,6,1895.86,181
+93,Home,Electronics,Much,4,670.2,195
+94,Kitchen,Home & Kitchen,Fear,11,2531.15,142
+95,Occur,Clothing,Benefit,15,2086.48,49
+96,Organization,Books,Tonight,12,3630.82,157
+97,Republican,Clothing,Tell,18,2974.17,17
+98,Heart,Toys,Thing,20,315.55,184
+99,Camera,Books,Daughter,19,4289.92,187
+100,Mouth,Home & Kitchen,Everything,5,240.61,107
