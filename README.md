@@ -47,5 +47,9 @@ The project uses five CSV files:
 - `reviews.csv` – Product reviews
 
 > **Note:** Update file paths in the `load_data()` function to match your system or repository structure.
-```bash
-git clone https://github.com/<your-username>/E-Commerce-Analytics-Dashboard.git
+
+#Output
+<img width="477" height="181" alt="Screenshot 2025-10-19 222618" src="https://github.com/user-attachments/assets/4565ec2a-c321-495c-b16e-08446b8d0b3f" />
+<img width="782" height="165" alt="Screenshot 2025-10-19 222630" src="https://github.com/user-attachments/assets/75361fcc-efe5-4400-9875-8afdfd36e5b7" />
+<img width="531" height="524" alt="Screenshot 2025-10-19 222643" src="https://github.com/user-attachments/assets/d032c2fc-0333-48bf-bd38-20bba92a0d82" />
+<img width="473" height="491" alt="Screenshot 2025-10-19 222704" src="https://github.com/user-attachments/assets/2b208d70-0be5-4593-aca0-ab8ff382a3ce" />
